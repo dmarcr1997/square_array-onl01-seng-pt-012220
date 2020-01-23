@@ -7,7 +7,7 @@ def square_array(array)
  return new_array
 end
 
-def square_array(array)
+def square_array2(array)
  new_array = []
  array.collect do |x|
   new_array << x**2  
